@@ -1,5 +1,4 @@
-//Logesh P
-//192521351
+
 // Ex 17 - Compute LEADING() Sets for Grammar
 
 #include <stdio.h>
